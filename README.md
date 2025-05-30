@@ -1,4 +1,9 @@
-# Cucumber Automation Testing Project
+# Tugas Cucumber - Test Engineering
+
+## 😁 About Me
+
+Nama: Amelia Putri Aftiana
+NIM: 71220867
 
 ## 📖 Overview
 
@@ -15,7 +20,6 @@ This project demonstrates **Behavior Driven Development (BDD)** using **Cucumber
 ## 📋 Prerequisites
 
 Before running this project, make sure you have:
-
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [Chrome Browser](https://www.google.com/chrome/)
 - [ChromeDriver](https://chromedriver.chromium.org/) (automatically managed by Selenium)
@@ -27,12 +31,10 @@ Before running this project, make sure you have:
    git clone <your-repository-url>
    cd cucumber-tutorial
    ```
-
 2. **Install dependencies**
    ```bash
    npm install
    ```
-
 3. **Verify installation**
    ```bash
    npm test
