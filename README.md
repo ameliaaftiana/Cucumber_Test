@@ -46,11 +46,11 @@ Before running this project, make sure you have:
 cucumber-tutorial/
 ├── features/
 │   ├── step_definitions/
-│   │   └── step.js           # Step definitions implementation
-│   └── login.feature         # Gherkin scenarios
-├── package.json              # Project dependencies
-├── cucumber.json             # Cucumber configuration
-└── README.md                # This file
+│   │   └── step.js         
+│   │   └── login.feature   
+├── package.json           
+├── cucumber.json           
+└── README.md           
 ```
 
 ## 🧪 Test Scenarios
