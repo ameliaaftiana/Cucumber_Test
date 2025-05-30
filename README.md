@@ -98,7 +98,7 @@ Scenario: Successful login with valid details
 
 The project has been successfully tested with all scenarios passing:
 
-![Test Results](https://github.com/your-username/your-repo/blob/main/test-results-screenshot.png)
+![Test Results](https://github.com/ameliaaftiana/Cucumber_Test/blob/main/test-results-screenshot.png)
 
 **Test Summary:**
 - ✅ **6 scenarios** - All passed
